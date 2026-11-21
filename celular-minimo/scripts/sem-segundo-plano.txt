@@ -1,0 +1,9 @@
+# Apps que você usa, mas que NÃO precisam rodar escondidos (Android 9+).
+# Eles abrem normal, só não ficam gastando RAM/bateria quando fechados.
+# ATENÇÃO: não coloque aqui apps de mensagem (WhatsApp, Telegram) nem banco
+# com notificação, senão você deixa de receber notificações deles.
+# com.instagram.android
+# com.facebook.katana
+# com.zhiliaoapp.musically
+# com.shopee.br
+# com.mercadolibre

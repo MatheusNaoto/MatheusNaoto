@@ -1,0 +1,31 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.minimo.launcher'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'com.minimo.launcher'
+        minSdk 21          // Android 5.0+ (funciona em aparelhos bem antigos)
+        targetSdk 35
+        versionCode 1
+        versionName '1.0'
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt')
+            // Assinado com a chave de debug só para poder instalar direto (uso pessoal).
+            signingConfig signingConfigs.debug
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}

@@ -1,0 +1,30 @@
+# Samsung (One UI)
+com.samsung.android.bixby.agent
+com.samsung.android.bixby.wakeup
+com.samsung.android.bixbyvision.framework
+com.samsung.android.visionintelligence
+com.samsung.android.app.spage            # Samsung Free / Bixby Home
+com.samsung.android.app.tips
+com.samsung.android.game.gamehome        # Game Launcher
+com.samsung.android.game.gametools
+com.samsung.android.ardrawing
+com.samsung.android.aremoji
+com.samsung.android.arzone
+com.samsung.android.stickercenter
+com.samsung.android.livestickers
+com.samsung.android.app.cocktailbarservice # Painéis Edge
+com.samsung.android.service.peoplestripe
+com.samsung.android.app.appsedge
+com.samsung.android.oneconnect           # SmartThings
+com.samsung.android.app.watchmanagerstub
+com.samsung.android.voc                  # Samsung Members
+com.samsung.android.kidsinstaller
+com.samsung.android.mdx                  # Link com o Windows
+com.microsoft.appmanager
+com.samsung.android.smartswitchassistant
+com.sec.android.easyMover.Agent
+com.samsung.android.da.daagent           # Dual Messenger
+com.samsung.android.forest               # Bem-estar digital Samsung
+com.samsung.android.app.routines         # Rotinas Bixby
+com.samsung.android.mateagent
+com.samsung.android.dynamiclock

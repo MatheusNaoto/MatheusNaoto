@@ -1,0 +1,6 @@
+# Apps que o script NUNCA vai mexer, mesmo que estejam nas listas.
+# Coloque um nome de pacote por linha. Ex.:
+# com.google.android.youtube
+# Para descobrir o nome de um app: adb shell pm list packages | findstr nome   (Windows)
+#                                  adb shell pm list packages | grep nome      (Linux/Mac)
+com.minimo.launcher

@@ -1,0 +1,9 @@
+# Motorola
+com.motorola.demo
+com.motorola.genie                       # Ajuda Moto
+com.motorola.ccc.notification
+com.motorola.gamemode
+com.motorola.brapps                      # Instalador de apps parceiros (BR)
+com.motorola.livewallpaper3
+com.motorola.help
+com.motorola.android.fmradio             # Rádio FM (se não usa)

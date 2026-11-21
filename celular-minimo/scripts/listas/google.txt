@@ -1,0 +1,26 @@
+# Apps do Google que quase ninguém usa e que ficam acordando em segundo plano.
+# Tudo aqui é DESATIVADO (reversível com o script restaurar).
+# Se você usa algum, apague a linha ou coloque o nome em ../manter.txt
+com.google.android.apps.tachyon          # Google Meet/Duo
+com.google.android.videos                # Google TV / Play Filmes
+com.google.android.music                 # Play Música (antigo)
+com.google.android.apps.youtube.music    # YouTube Music
+com.google.android.apps.books            # Play Livros
+com.google.android.apps.magazines        # Google Notícias
+com.google.android.apps.podcasts         # Google Podcasts
+com.google.android.apps.subscriptions.red # Google One
+com.google.android.apps.wellbeing        # Bem-estar digital
+com.google.android.feedback              # Feedback do Google
+com.google.android.apps.googleassistant  # Atalho do Assistente
+com.google.ar.core                       # Realidade aumentada
+com.google.android.apps.restore          # Restaurar apps (só usado no setup inicial)
+com.google.android.projection.gearhead   # Android Auto (se não usa carro com ele)
+com.google.android.apps.nbu.files        # Files by Google (se usa outro gerenciador)
+# Pré-instalados de terceiros comuns em vários aparelhos
+com.facebook.appmanager
+com.facebook.services
+com.facebook.system
+com.netflix.partner.activation
+com.amazon.appmanager
+com.linkedin.android
+com.microsoft.skydrive
